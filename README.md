@@ -1,6 +1,3 @@
-# rm-ds-store
-.DS_Store 삭제
-
 
 ## rs-ds-store.sh 생성
 ```
